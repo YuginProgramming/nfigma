@@ -1,0 +1,243 @@
+body {
+	background-color: #E5E5E5;
+}
+.vx {
+	display: flex;
+	flex-wrap: wrap;
+	background-color: white;
+	border: 1px solid #E5E5E5;
+	justify-content: space-around;
+	padding: 1rem;
+}
+
+.vx > div {
+	background-color: #E5E5E5;
+	border: transparent;
+	font-size: 10px;
+	color: black;
+	padding: 20px;
+}
+.vx .rightbox {
+	background-color: white;
+	font-size: 15px;
+	width: 170px;
+	padding: 5px;
+	border: 1px solid #DBDBDB;
+}
+.vx .leftbox {
+	background-color: #162970;
+	color: white;
+	font-size: 15px;
+	width: 150px;
+	padding: 5px;
+	border: 1px solid #DBDBDB;
+}
+.secondline {
+	display: flex;
+	flex-wrap: wrap;
+	background-color: #E5E5E5;
+	border: none;
+	padding: 1px;
+}
+
+.secondline > div {
+	background-color: #E5E5E5;
+	border: transparent;
+	font-size: 10px;
+	color: black;
+	padding: 50px;
+}
+.secondline .rightboxl2 {
+	background-color: white;
+	font-size: 15px;
+	width: 170px;
+	padding: 25px;
+	margin: 5px;
+	border: 1px solid #DBDBDB;
+}
+.secondline .leftboxl2 img {
+	margin-left: -10px;
+	width: 200px;
+}
+.secondline .rightboxl2 img {
+	margin-left: -10px;
+	width: 200px;
+}
+.secondline .leftboxl2 {
+	background-color: white;
+	color: black;
+	font-size: 15px;
+	width: 170px;
+	padding: 25px;
+	margin: 5px;
+	border: 2px solid #F2AE4B;
+}
+.leftboxgroup .leftbox1 {
+	background-color: #F3BA2F;
+	color: white;
+	font-size: 15px;
+	width: 200px;
+	padding: 5px;
+	border: 1px solid #DBDBDB;
+	display: flex;
+  justify-content: center;
+}
+.avtovikup {
+	background-color: white;
+	font-size: 15px;
+	width: 200px;
+	padding: 5px;
+	border: 1px solid #DBDBDB;
+	display: flex;
+	justify-content: center;
+}
+
+span.grey {
+	color: #7B7B7E;
+	font-size: 15px;
+	padding: 60px;
+}
+.thirdLine {
+	display: flex;
+	flex-wrap: wrap;
+	background-color: #E5E5E5;
+	border: 1px solid #E5E5E5;
+	justify-content: space-around;
+	padding: 1rem;
+}
+
+.thirdLine > div {
+	background-color: #E5E5E5;
+	border: transparent;
+	font-size: 10px;
+	color: black;
+	padding: 20px;
+}
+.thirdLine .rightbox {
+	background-color: white;
+	font-size: 15px;
+	width: 170px;
+	padding: 5px;
+	border: 1px solid #DBDBDB;
+}
+.thirdLine .leftbox {
+	background-color: #4FF766;
+	color: white;
+	font-size: 15px;
+	width: 150px;
+	padding: 5px;
+	border: 1px solid #DBDBDB;
+}
+.thirdLine .leftbox1 {
+	background-color: #F3BA2F;
+	color: white;
+	font-size: 15px;
+	width: 150px;
+	padding: 5px;
+	border: 1px solid #DBDBDB;
+}
+.fourthLine {
+	display: flex;
+	flex-wrap: wrap;
+	background-color: #E5E5E5;
+	border: none;
+	justify-content: space-around;
+	padding: 1rem;
+	width: 700px;
+}
+
+.fourthLine > div {
+	background-color: #E5E5E5;
+	border: transparent;
+	font-size: 10px;
+	color: black;
+	padding: 20px;
+}
+.fourthLine .rightbox {
+	background-color: white;
+	font-size: 15px;
+	width: 170px;
+	padding: 25px;
+	margin: 5px;
+	border: 1px solid #DBDBDB;
+}
+.fourthLine .rightbox img {
+	margin-left: -10px;
+	width: 200px;
+}
+.fifthLine {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	background-color: #E5E5E5;
+	border: transparent;
+	padding: 1rem;
+	width: 700px;
+}
+.fifthLine .rightbox {
+	background-color: white;
+	font-size: 15px;
+	width: 170px;
+	padding: 5px;
+	border: 1px solid #DBDBDB;
+}
+.sixth {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	background-color: #E5E5E5;
+	border: transparent;
+	padding: 1rem;
+	width: 700px;
+}
+.sixth .rightbox {
+	background-color: #E5E5E5;
+	justify-content: center;
+	text-align: center;
+	font-size: 15px;
+	width: 170px;
+	padding: 5px;
+	border: none;
+}
+span.s6 {
+	color: black;
+	font-size: 30px;
+}
+p {
+	text-indent: 50px;
+}
+.seventhline {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	background-color: #E5E5E5;
+	border: transparent;
+	padding: 2px;
+}
+.seventhline .leftboxl7 {
+	background-color: #E5E5E5;
+	justify-content: center;
+	text-align: center;
+	font-size: 15px;
+	width: 800px;
+	padding: 5px;
+	margin-right: : 30px;
+	border: none;
+}
+.seventhline .rightboxl7 {
+	background-color: #E5E5E5;
+	width: 250px;
+	margin-right: 30px;
+	padding: 5px;
+	border: none;
+}
+.seventhline .leftboxl7 img {
+	margin-left: -40px;
+	margin-right: 30px;
+	width: 800px;
+}
+.seventhline .rightboxl7 img {
+	margin-left: -40px;
+	margin-right: 30px;
+	width: 278px;
+}
