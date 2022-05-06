@@ -1,0 +1,25 @@
+div {
+	background-color: #E5E5E5;
+	color: black;
+	font-size: 25px;
+}
+@media screen and (max-width:576px) {
+	.vx {
+		display: flex;
+		flex-wrap: wrap;
+		background-color: white;
+		border: 1px solid pink;
+		justify-content: space-around;
+	}
+	.vx > div {
+		background-color: #F3F3F5;
+		width: 300px;
+		border: transparent;
+		font-size: 15px;
+		color: black;
+		padding: 20px;
+	}
+	.vx .rightbox {
+		background-color: #FCF5F4;
+		font-size: 15px;
+	}
