@@ -1,24 +1,8 @@
 
 @media screen and (max-width:576px) {
-	.vx {
-		display: flex;
-		flex-wrap: wrap;
-		background-color: white;
-		border: 1px solid pink;
-		justify-content: space-around;
-	}
-	.vx > div {
-		background-color: #F3F3F5;
-		width: 576px;
-		border: transparent;
-		font-size: 15px;
-		color: black;
-		padding: 20px;
-	}
-	.vx .rightbox {
-		background-color: #FCF5F4;
-		font-size: 15px;
-	}
+.vx {
+	display: none;
+}
 	.seventhline .leftboxl7 img {
     width: 576px;
 		margin-left: 35px;
@@ -31,3 +15,12 @@
     padding: 2px;
     width: 576px;
 	}
+.adapt {
+	display: flex;
+	flex-wrap: wrap;
+	background-color: #4F8FF7;
+	border: transparent;
+	padding: 20px;
+	margin: 50px;
+	width: 960px;
+}

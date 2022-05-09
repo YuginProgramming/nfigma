@@ -5,7 +5,9 @@ html {
 }
 
 body {
-	background-color: #E5E5E5;
+ 	background-color: #E5E5E5;
+	width: 1314px;
+  margin: 0px auto;
 }
 .vx {
 	display: flex;
@@ -37,6 +39,9 @@ body {
 	width: 150px;
 	padding: 5px;
 	border: 1px solid #DBDBDB;
+}
+.adapt {
+	display:none;
 }
 .secondline {
 	display: flex;
