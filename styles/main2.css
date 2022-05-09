@@ -22,5 +22,20 @@
 	border: transparent;
 	padding: 20px;
 	margin: 50px;
-	width: 960px;
+	width: 428px;
 }
+body {
+ 	background-color: #E5E5E5;
+	width: 576px;
+  margin: 0px auto;
+}
+	.seventhline .rightboxl7 {
+		display: flex;
+		background-image: url('file:///Users/yevgeniy/Documents/coding_study/Repositories/figma-main/images/seven_right.png');
+		width: 250px;
+		height: 200px;
+		background-size: cover;
+		background-position: center;
+		background-repeat: no-repeat;
+		padding: 5px;
+	}
